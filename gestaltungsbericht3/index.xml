@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://scorelfc.github.io/gestaltungsbericht3/designkonzepte/d01/</guid>
-      <description>Als Maßnahme zur Unterstützung der Organisation kollaborativer Arbeitsprozesse in der Crowd mittels einer generativen Struktur (G01: SCoRe) wurde das Konzept der »Canvas« entwickelt. Eine Canvas ist ein kollaborativ bearbeitbares Arbeitsdokument, das alle für eine bestimmte Arbeitsphase relevanten Informationen integriert und visuell strukturiert. Die Canvas unterstützt die Organisation des kollaborativen Arbeitsprozesses, in dem sie eine Übersicht über die (noch zu erarbeitenden) Teilarbeitsergebnisse liefert und die beteiligten Akteur_innen dazu anhält die Arbeitsergebnisse bereits im Laufe des Arbeitsprozesses zu synthetisieren.</description>
+      <description>Zur Unterstützung der Organisation kollaborativer Arbeitsprozesse in der Crowd mittels einer generativen Struktur (G01: SCoRe) wurde das Konzept der Canvas entwickelt. Sie ist ein kollaborativ bearbeitbares Dokument, das alle für eine bestimmte Arbeitsphase relevanten Informationen integriert und visuell strukturiert. So unterstützt sie die Organisation des kollaborativen Arbeitsprozesses, in dem sie eine Übersicht über die (ggf. noch zu erarbeitenden) Teilarbeitsergebnisse liefert (G03: Vital Signs) und die beteiligten Akteur:innen dazu anhält, diese bereits im Laufe des Arbeitsprozesses zu synthetisieren (G09: Collective Agency).</description>
     </item>
     
     <item>
@@ -21,7 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://scorelfc.github.io/gestaltungsbericht3/designkonzepte/d02/</guid>
-      <description>Als weiteres strukturgebendes Element für den kollaborativen Arbeitsprozesses wurde das Konzept eines »Stage-Gate-Modells« zur Organisation ergebnisoffener Gestaltungs- und Entwicklungsprozesse aufgegriffen und weiterentwickelt. Die Strukturierung des Arbeitsprozesses mittels eines Stage-Gate-Modells soll einerseits eine Vielzahl an Vorgehensweisen ermöglichen (G08: Productive Diversity) und gleichzeitig eine kollektives Qualitätsbewusstsein fördern (G06: Joint Quality Care). Ausgangspunkt des Stage-Gate-Modells bildet die Zerlegung des kollaborativen Arbeitsprozesses in eine Reihe aufeinander aufbauender Phasen (Stages), die jeweils mit einem klar umschriebenen Teilarbeitsergebnis enden, die vor dem Wechsel in die nächste Phase einer Qualitätskontrolle unterzogen werden, deren Ausgang über das weitere Vorgehen entscheidet.</description>
+      <description>Als weiteres strukturgebendes Element für den kollaborativen Arbeitsprozesses wurde das Konzept eines »Stage-Gate-Modells« zur Organisation ergebnisoffener Gestaltungs- und Entwicklungsprozesse (etwa in der Produktentwicklung, u.a. Cooper 1990) aufgegriffen und weiterentwickelt. Eine derartige Strukturierung des Arbeitsprozesses soll einerseits eine Vielzahl an Vorgehensweisen ermöglichen (G08: Productive Diversity) und gleichzeitig eine kollektives Qualitätsbewusstsein fördern (G06: Joint Quality Care). Den Ausgangspunkt bildet die Teilung des kollaborativen Arbeitsprozesses in aufeinander aufbauende Phasen (Stages). Das Modell macht keine Vorgaben zur Organisation der Arbeitsprozesse innerhalb der einzelnen Phasen, sondern definiert stattdessen die zu erstellenden Arbeitsergebnisse sowie relevante Qualitätskriterien.</description>
     </item>
     
     <item>
@@ -30,7 +30,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://scorelfc.github.io/gestaltungsbericht3/designkonzepte/d03/</guid>
-      <description>Zur Unterstützung sich selbst dokumentierender Prozesse (G02: Dynamic Trail Marks) wie auch zur Sicherstellung einer eindeutigen und konsistenten Referenzierbarkeit aller (Zwischen-)Ergebnisse (G05: Same Page), wurde das Modell einer »kontrollierten Versionierung« entwickelt. Der Ansatz der kontrollierten Versionierung kombiniert die systematische technische Versionierung der geteilten Arbeitsartefakte mit der Begründung der vorgenommenen Änderungen durch die Akteur_innen. Aus der Begründung der einzelnen Arbeitsschritte ergibt sich eine kontinuierliche Dokumentation des Gesamtprozesses und liefert insbesondere die im Rahmen räumlich und zeitlich verteilter Kollaborationsprozesse die Möglichkeit zielgerichteter Anschlusshandlungen.</description>
+      <description>Zur Unterstützung sich selbst dokumentierender Prozesse (G02: Dynamic Trail Marks) wie auch zur Sicherstellung einer eindeutigen und konsistenten Referenzierbarkeit aller Ergebnisse (G05: Same Page), wurde das Modell einer kontrollierten Versionierung entwickelt. Der Ansatz kombiniert die systematische technische Versionierung der geteilten Arbeitsartefakte mit der Begründung der vorgenommenen Änderungen durch die Autor:innen. Aus der Begründung der einzelnen Arbeitsschritte ergibt sich eine kontinuierliche, kontextualisierte Dokumentation des Gesamtprozesses und ermöglicht in räumlich und zeitlich verteilten Kollaborationsprozessen zielgerichtete Anschlusshandlungen.</description>
     </item>
     
     <item>
@@ -66,7 +66,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://scorelfc.github.io/gestaltungsbericht3/designkonzepte/d07/</guid>
-      <description>Die Diversität unter den Teilnehmenden und deren Beiträgen (G08: Productive Diversity) wird durch »Mikrobeiträge« sichergestellt, denn diese ermöglichen einen niedrigschwelligen Einstieg. Dabei leisten die Mitglieder der Crowd einzelne Mikrobeiträge, die in ihrer Summe zum Erfolg des Gesamtprojekts beitragen. Ein solcher Beitrag kann dabei nicht auf seine Kleinheit reduziert werden. Stattdessen müssen Mikrobeiträge immer im Verhältnis zum großen Ganzen gesehen werden, da ihr Aussagekraft und Bedeutung erst im Zusammenhang mit anderen Beiträgen sichtbar wird.</description>
+      <description>Die Diversität unter den Teilnehmenden und deren Beiträgen G08: Productive Diversity) wird durch Mikrobeiträge sichergestellt, die einen niedrigschwelligen Einstieg ermöglichen. Dabei leisten die Teilnehmenden einzelne kleine Beiträge, die erst in Summe zum Erfolg des Gesamtprojekts beitragen G09: Collective Agency). Mikrobeiträge müssen immer im Verhältnis zu diesem bewertet werden, da ihr Aussagekraft und Bedeutung erst im Zusammenhang mit anderen Beiträgen sichtbar wird G06: Joint Quality Care).</description>
     </item>
     
     <item>
