@@ -1,0 +1,13 @@
+/*p {
+  margin-top: 0;
+  margin-bottom: 20px;
+}*/
+
+/*user browser specific hyphen engines */
+.silbentrennung {
+   -moz-hyphens: auto;
+   -o-hyphens: auto;
+   -webkit-hyphens: auto;
+   -ms-hyphens: auto;
+   hyphens: auto; 
+}
